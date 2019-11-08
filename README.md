@@ -9,7 +9,7 @@ Crear aplicación estilo Instagram que permita hacer likes a fotos de mascotas.
 Características principales
   - Utilización de RecyclerView en MainActivity para mostrar lista de mascotas.
   - Cada mascota dispone de un botón "like" (hueso blanco) y de un icono (hueso amarillo) indicando número de likes.
-  - Cada click sobre el icono del hueso blanco incrementa el número de likes (contador en icono hueso amarillo).
+  - Cada click sobre el botón del hueso blanco incrementa el número de likes (contador en icono hueso amarillo).
   - Creación de Action View (icono estrella) que lleva a una segunda activity (UltimasFavoritas) donde se mostrarán 5 mascotas "dummy" (en posteriores versiones se mostrarán las 5 últimas mascotas a las que se ha hecho "like").
   - Utilización de botón para regresar a actividad padre (subir).
   
